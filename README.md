@@ -33,6 +33,7 @@ ThorBot ist ein Open-Source-Humanoid-Roboter für Physical-AI-Forschung, aufgeba
 - [Projekt auf einen Blick](#de-ueberblick)
 - [Repository-Übersicht](#de-repos)
 - [Vision und Ausblick](#de-vision)
+- [Demo](#de-demo)
 - [Projektstruktur](#de-struktur)
 - [Bill of Materials](#de-bom)
 - [Changelog](#de-changelog)
@@ -79,6 +80,19 @@ Das langfristige Ziel ist eine offene Plattform für Physical AI:
 - Vollständige, nachbausichere Dokumentation von Mechanik, Elektronik und Software
 
 Der aktuelle Software-Stand ist ein erster funktionaler Grundstein — die eigentliche ROS- und KI-Integration folgt in den nächsten Entwicklungsschritten.
+
+<a id="de-demo"></a>
+
+### Demo
+
+Ein erster Bewegungstest des Aufbaus:
+
+<p align="center">
+  <a href="Assets/videos/ThorBot_Demo.mp4">
+    <img src="Assets/images/ThorBot_3D_Front.png" alt="ThorBot Demo-Video" width="50%">
+  </a>
+</p>
+<p align="center"><em>Bild anklicken, um das Video zu öffnen.</em></p>
 
 <a id="de-struktur"></a>
 
@@ -128,6 +142,7 @@ ThorBot is an open-source humanoid robot for Physical AI research, built from in
 - [Project Overview](#en-ueberblick)
 - [Repository Overview](#en-repos)
 - [Vision and Outlook](#en-vision)
+- [Demo](#en-demo)
 - [Project Structure](#en-struktur)
 - [Bill of Materials](#en-bom)
 - [Changelog](#en-changelog)
@@ -174,6 +189,19 @@ The long-term goal is an open platform for Physical AI:
 - Complete, reproducible documentation of mechanics, electronics, and software
 
 The current software state is a first functional foundation — the actual ROS and AI integration follows in the next development steps.
+
+<a id="en-demo"></a>
+
+### Demo
+
+A first motion test of the build:
+
+<p align="center">
+  <a href="Assets/videos/ThorBot_Demo.mp4">
+    <img src="Assets/images/ThorBot_3D_Front.png" alt="ThorBot demo video" width="50%">
+  </a>
+</p>
+<p align="center"><em>Click the image to open the video.</em></p>
 
 <a id="en-struktur"></a>
 
