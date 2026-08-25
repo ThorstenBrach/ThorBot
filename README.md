@@ -7,11 +7,11 @@
 
 # ThorBot
 
-DIY wheeled humanoid robot for Physical AI research, built with industrial like components.
-
 <p align="center">
-  <img src="Assets/images/ThorBot_Demo.png" alt="ThorBot – overview" width="70%">
+  <img src="Assets/images/TRob.png" alt="ThorBot logo" width="25%">
 </p>
+
+DIY wheeled humanoid robot for Physical AI research, built with industrial like components.
 
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![Changelog](https://img.shields.io/badge/Changelog-Keep%20a%20Changelog-blueviolet?style=for-the-badge)](./CHANGELOG.md)
