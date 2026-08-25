@@ -10,7 +10,7 @@
 DIY wheeled humanoid robot for Physical AI research, built with industrial like components.
 
 <p align="center">
-  <img src="Assets/images/ThorBot_REAL_Collage.png" alt="ThorBot – overview collage" width="70%">
+  <img src="Assets/images/ThorBot_Demo.png" alt="ThorBot – overview" width="70%">
 </p>
 
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
@@ -89,7 +89,7 @@ Ein erster Bewegungstest des Aufbaus:
 
 <p align="center">
   <a href="Assets/videos/ThorBot_Demo.mp4">
-    <img src="Assets/images/ThorBot_3D_Front.png" alt="ThorBot Demo-Video" width="50%">
+    <img src="Assets/images/ThorBot_Demo.png" alt="ThorBot Demo-Video" width="50%">
   </a>
 </p>
 <p align="center"><em>Bild anklicken, um das Video zu öffnen.</em></p>
@@ -198,7 +198,7 @@ A first motion test of the build:
 
 <p align="center">
   <a href="Assets/videos/ThorBot_Demo.mp4">
-    <img src="Assets/images/ThorBot_3D_Front.png" alt="ThorBot demo video" width="50%">
+    <img src="Assets/images/ThorBot_Demo.png" alt="ThorBot demo video" width="50%">
   </a>
 </p>
 <p align="center"><em>Click the image to open the video.</em></p>
