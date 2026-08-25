@@ -1,0 +1,15 @@
+# OS / Editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp / Backup
+*.tmp
+*.bak
+*~
+
+# Large media (optional, falls Git LFS verwendet wird)
+# *.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Logs
+*.log
