@@ -8,7 +8,7 @@
 # ThorBot
 
 <p align="center">
-  <img src="Assets/images/TRob.png" alt="ThorBot logo" width="25%">
+  <img src="Assets/images/TRob.png" alt="ThorBot logo" width="40%">
 </p>
 
 DIY wheeled humanoid robot for Physical AI research, built with industrial like components.
