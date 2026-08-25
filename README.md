@@ -88,11 +88,9 @@ Der aktuelle Software-Stand ist ein erster funktionaler Grundstein — die eigen
 Ein erster Bewegungstest des Aufbaus:
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/ThorstenBrach/ThorBot/main/Assets/videos/ThorBot_Demo.mp4">
-    <img src="Assets/images/ThorBot_Demo.png" alt="ThorBot Demo-Video" width="50%">
-  </a>
+  <img src="Assets/images/ThorBot_Demo.gif" alt="ThorBot Demo" width="70%">
 </p>
-<p align="center"><em>Bild anklicken, um das Video zu öffnen.</em></p>
+<p align="center"><em>Animierte Vorschau des Demo-Videos.</em></p>
 
 <a id="de-struktur"></a>
 
@@ -197,11 +195,9 @@ The current software state is a first functional foundation — the actual ROS a
 A first motion test of the build:
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/ThorstenBrach/ThorBot/main/Assets/videos/ThorBot_Demo.mp4">
-    <img src="Assets/images/ThorBot_Demo.png" alt="ThorBot demo video" width="50%">
-  </a>
+  <img src="Assets/images/ThorBot_Demo.gif" alt="ThorBot demo" width="70%">
 </p>
-<p align="center"><em>Click the image to open the video.</em></p>
+<p align="center"><em>Animated preview of the demo video.</em></p>
 
 <a id="en-struktur"></a>
 
